@@ -1,8 +1,8 @@
 # CodSoft-Java-Internship Task 1-all three
-Collection of Java projects completed during the CodSoft Software Development Internship, showcasing problem-solving skills, object-oriented programming, and Java application development.
+Collection of Java projects completed during the CodSoft Java Programming Internship, showcasing problem-solving skills, object-oriented programming, and Java application development.
 # CodSoft Java Internship
 
-This repository contains all tasks completed during the CodSoft Software Development Internship.
+This repository contains all tasks completed during the CodSoft Java Programming Internship.
 
 ## Tasks
 
@@ -17,10 +17,11 @@ This repository contains all tasks completed during the CodSoft Software Develop
 - Percentage calculation
 - Grade assignment
 
-### Task 3: ATM Interface
-- Withdraw money
-- Deposit money
-- Check balance
+### Task 4: Currency Converter
+- Convert one currency to another
+- Support multiple currency types
+- Real-time conversion calculations
+- User-friendly input and output interface
 
 ## Technologies Used
 - Java
