@@ -1,4 +1,4 @@
-# CodSoft-Java-Internship
+# CodSoft-Java-Internship Task 1-all three
 Collection of Java projects completed during the CodSoft Software Development Internship, showcasing problem-solving skills, object-oriented programming, and Java application development.
 # CodSoft Java Internship
 
